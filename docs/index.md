@@ -1,5 +1,5 @@
 ---
-title: World Market Income Distribution
+title: World Wealth Distribution
 ---
 
 
