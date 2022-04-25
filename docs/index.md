@@ -20,7 +20,7 @@ Taller blocks correspond to higher incomes. Countries with larger populations ar
 
 This work was created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
-For (market) income inequality, you can check out our comapnion website [WIDmarket_income_inequality](https://wid.world//).
+For (market) income inequality, you can check out our comapnion website [WIDmarket_income_inequality](https://tzvetanmoev.github.io/WIDmarket_income_inequality/).
 
 ## Contact
 
