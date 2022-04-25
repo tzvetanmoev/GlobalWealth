@@ -36,7 +36,7 @@
 
 <p>Questions? Comments? Concerns? Get in touch with me Tzvetan Moev using tzvetan.moev@kcl.ac.uk.</p>
 
-<p>THis website is an updated version of Jack Blundell's <a href="https://jackblun.github.io/Globalinc/">Globalinc</a>. I have mostly used his coding for this project, so we owe him a massive thanks. This could not have been possible without his efforts. </a></p>
+<p>This website is an updated version of Jack Blundell's <a href="https://jackblun.github.io/Globalinc/">Globalinc</a>. I have mostly used his coding for this project, so we owe him a massive thanks. This could not have been possible without his efforts. </a></p>
 
 
     
