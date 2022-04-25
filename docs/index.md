@@ -8,9 +8,9 @@ title: World Wealth Distribution
 
 ## About
 
-Here we use PPP-adjusted data on real incomes from the [World Inequality Database](https://wid.world//) to build an interactive visualisation demonstrating the changing shape of global market income since 1980. 
+Here we use PPP-adjusted data on real incomes from the [World Inequality Database](https://wid.world//) to build an interactive visualisation demonstrating the changing shape of global wealth since 1995. 
 
-[Click here to go to the graphs](html/fig_1980.html){: .button}
+[Click here to go to the graphs](fig_1995.html){: .button}
 
 You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/WIDwealth_inequality/master/wid_wealth_usd21_wide.xlsx" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/WIDwealth_inequality/master/wid_wealth_usd21_wide.csv" download ="download"> csv </a> formats.
  
