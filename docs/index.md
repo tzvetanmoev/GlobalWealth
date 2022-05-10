@@ -16,7 +16,7 @@ You can also download the data here in <a href="https://raw.githubusercontent.co
  
 Below you can see the global wealth distribution in 2020. Taller blocks correspond to higher wealth. Countries with larger populations are assigned thicker blocks. Colours correspond to how rich the country was in 1995, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to their national *income* per capita in each year, while holding colours fixed from the 1995 ordering. Therefore with these figures we can see wealth inequality within and across countries over time as well as changes in national per capita income. Click on the picture to zoom into the global wealth distribution.
 
-[![image](/img/fig_2020.png){:class="img-responsive" height="100%" width="100%"}](html/fig_1995.html)
+[![image](/img/fig_2020.png){:class="img-responsive" height="100%" width="100%"}](html/fig_2020.html)
 
 These visualisations were created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
