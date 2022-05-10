@@ -13,7 +13,9 @@
 
 <h2 id="about">About</h2>
 
-We examine the global wealth inequality.
+We examine global wealth inequality. 
 
-In particular, we explore the distribution of wealth across different countries via skyscraper diagrams for the period 1995 to 2020.
+In particular, we explore the distribution of wealth across different countries via skyscraper diagrams.
+
+See the resulting website at [WIDwealth](https://tzvetanmoev.github.io/WIDwealth/).
 </html>
