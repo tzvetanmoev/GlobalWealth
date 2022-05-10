@@ -20,7 +20,7 @@ Below you can see the global wealth distribution in 2020. Taller blocks correspo
 
 These visualisations were created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
-You can also explore similar interactive visualisations of global *income* inequality and global *carbon footprint* inequality in our companion websites: [WIDmarket_income](https://tzvetanmoev.github.io/WIDmarket_income/) and [WIDcarbon](https://tzvetanmoev.github.io/WIDcarbon/).
+You can also explore similar interactive visualisations of the global *income* distribution and the global distribution of *carbon emissions* in our companion websites: [WIDmarket_income](https://tzvetanmoev.github.io/WIDmarket_income/) and [WIDcarbon](https://tzvetanmoev.github.io/WIDcarbon/).
 
 
 ## Contact
