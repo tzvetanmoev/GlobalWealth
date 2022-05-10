@@ -8,7 +8,7 @@ title: World Wealth Distribution
 
 ## About
 
-We build an interactive visualisation demonstrating the changing shape of global wealth since 1995. Our PPP-adjusted data on real incomes comes from the [World Inequality Database](https://wid.world//) (WID).
+We build an interactive visualisation demonstrating the changing shape of global wealth since 1995. Our PPP-adjusted data on wealth comes from the [World Inequality Database](https://wid.world//) (WID).
 
 [Click here to go to the graphs](html/fig_1995.html){: .button}
 
