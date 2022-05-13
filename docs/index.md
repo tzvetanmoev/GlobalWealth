@@ -12,7 +12,7 @@ We build an interactive visualisation demonstrating the changing distribution of
 
 [Click here to go to the graphs](html/fig_1995.html){: .button}
 
-You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/WIDwealth_inequality/master/wid_wealth_usd21_wide.xlsx" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/WIDwealth_inequality/master/wid_wealth_usd21_wide.csv" download ="download"> csv </a> formats.
+You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/GlobalWealth/master/wid_wealth_usd21_wide.xlsx" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/GlobalWealth/master/wid_wealth_usd21_wide.csv" download ="download"> csv </a> formats.
  
 Below you can see the global wealth distribution in 2020. Taller blocks correspond to higher wealth. Countries with larger populations are assigned thicker blocks. Colours correspond to how rich the country was in 1995, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to their national *income* per capita in each year, while holding colours fixed from the 1995 ordering. Therefore with these figures we can see wealth inequality within and across countries over time as well as changes in national per capita income. Click on the picture to zoom into the global wealth distribution.
 
@@ -20,7 +20,7 @@ Below you can see the global wealth distribution in 2020. Taller blocks correspo
 
 These visualisations were created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
-You can also explore similar interactive visualisations of the global *income* distribution and the global distribution of *carbon emissions* in our companion websites: [WIDmarket_income](https://tzvetanmoev.github.io/WIDmarket_income/) and [WIDcarbon](https://tzvetanmoev.github.io/WIDcarbon/).
+You can also explore similar interactive visualisations of the global *income* distribution and the global distribution of *carbon emissions* in our companion websites: [GlobalMarketInc](https://tzvetanmoev.github.io/GlobalMarketInc/) and [GlobalCarb](https://tzvetanmoev.github.io/GlobalCarb/).
 
 
 ## Contact
