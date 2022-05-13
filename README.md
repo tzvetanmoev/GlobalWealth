@@ -17,5 +17,5 @@ We examine global wealth inequality.
 
 In particular, we explore the distribution of wealth across different countries via skyscraper diagrams.
 
-See the resulting website at [WIDwealth](https://tzvetanmoev.github.io/WIDwealth/).
+See the resulting website at [GlobalWealth](https://tzvetanmoev.github.io/GlobalWealth/).
 </html>
