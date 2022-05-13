@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+theme: jekyll-theme-slate
 name: Global Income Distribution
 
 kramdown:
