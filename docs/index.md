@@ -14,7 +14,7 @@ We build an interactive visualisation demonstrating the changing distribution of
 
 You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-2-wealth/master/wid_wealth_usd21_wide.xlsx" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-2-wealth/master/wid_wealth_usd21_wide.csv" download ="download"> csv </a> formats.
  
-Below you can see the global wealth distribution in 2020. Taller blocks correspond to higher wealth. Countries with larger populations are assigned wider blocks. Colours correspond to how rich the country was in 1995, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to their national *income* per capita in each year, while holding colours fixed from the 1995 ordering. Therefore with these figures we can see wealth inequality within and across countries over time as well as changes in national per capita income. Click on the picture to zoom into the global wealth distribution.
+Below you can see the global wealth distribution in 2020. Wealth represents the total value of the assets held by a household such as its savings, bonds and houses, minus its debts. Taller blocks correspond to higher wealth. Countries with larger populations are assigned wider blocks. Colours correspond to how rich the country was in 1995, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to their national *income* per capita in each year, while holding colours fixed from the 1995 ordering. Therefore with these figures we can see wealth inequality within and across countries over time as well as changes in national per capita income. Click on the picture to zoom into the global wealth distribution.
 
 [![image](/img/fig_2020.png){:class="img-responsive" height="100%" width="100%"}](html/fig_2020.html)
 
@@ -31,7 +31,7 @@ Questions? Comments? Concerns? Get in touch with Tzvetan Moev using tz.moev@gmai
 
 This website is an updated version of Jack Blundell's <a href="https://jackblun.github.io/Globalinc/">Globalinc</a>. We have mostly used his coding for this project, so we owe him a massive thanks. This could not have been possible without his efforts. 
 
-For more information on how WID collects data on wealth and income, please refer to [this report](https://wid.world/news-article/2020-distributional-national-accounts-guidelines-dina/).
+For more information on how WID collects data on wealth and income, please refer to [this report](https://wid.world/news-article/2020-distributional-national-accounts-guidelines-dina/). If you are interested in exploring what assets are included in wealth, search for variable *ahweal* in [this variable table](https://wid.world/summary-table/) on WID's website.
 
 Visualisations created using [amCharts](https://www.amcharts.com/). 
 
