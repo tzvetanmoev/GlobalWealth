@@ -11,8 +11,6 @@ title: World Wealth Distribution
 We build an interactive visualisation demonstrating the changing distribution of global wealth since 1995. Our PPP-adjusted data on wealth comes from the [World Inequality Database](https://wid.world//) (WID).
 
 [Click here to go to the graphs](html/fig_1995.html){: .button}
-
-You can also download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-2-wealth/master/wid_wealth_usd21_wide.xlsx" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-2-wealth/master/wid_wealth_usd21_wide.csv" download ="download"> csv </a> formats.
  
 Below you can see the global wealth distribution in 2020. Wealth represents the total value of the assets hold by a household such as its savings, bonds and houses, minus its debts. Taller blocks correspond to higher wealth. Countries with larger populations are assigned wider blocks. Colours correspond to how rich the country was in 1995, with poorer countries shaded red and richer countries shaded green. Countries are ordered according to their national *income* per capita in each year, while holding colours fixed from the 1995 ordering. Therefore, with these figures we can see wealth inequality within and across countries over time as well as changes in national per capita income. Click on the picture to zoom into the global wealth distribution.
 
@@ -21,6 +19,14 @@ Below you can see the global wealth distribution in 2020. Wealth represents the 
 These visualisations were created for [The CORE Project](http://www.core-econ.org/). CORE is an open-access, interactive ebook-based course for anyone interested in learning about the economy and economics.
 
 You can also explore similar interactive visualisations of global *income* inequality and global *carbon footprint* inequality in our companion websites:  [CORE Skyscraper 1: Exploring global income inequality](https://tzvetanmoev.github.io/core-skyscraper-1-income/) and [CORE Skyscraper 3: Exploring global carbon footprint inequality](https://tzvetanmoev.github.io/core-skyscraper-3-carbon/).
+
+## Download the data
+
+Before you access the WID data, please note two things. First, the population data in our dataset does not include the total population in each country but only the adult population (people aged 20 or more). Second, our data reports pretax wealth in 2011 USD PPP. Unfortunately, other similar datasets do not always use the same measure of wealth.
+
+Such differences in recording wealth and population explain why you might notice some discrepancies between our dataset and other sources.
+
+You can download the data here in <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-2-wealth/master/wid_wealth_usd21_wide.xlsx" download ="download"> xlsx </a> or <a href="https://raw.githubusercontent.com/tzvetanmoev/core-skyscraper-2-wealth/master/wid_wealth_usd21_wide.csv" download ="download"> csv </a> formats.
 
 
 ## Contact
